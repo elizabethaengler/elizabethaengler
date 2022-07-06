@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @elizabethaengler
+- 👀 I’m interested in puzzles, mysteries, animals, nature, and technology.
+- 🌱 I’m currently learning C#, Unity, and Computer Science.
+- 💞️ I’m looking to collaborate on group projects.
+- 📫 Reach me by private message.
